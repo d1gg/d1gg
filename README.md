@@ -6,6 +6,6 @@
 - 🎸 musician 🤘 metal, prog, fusion 🇩🇪 bilingual 🇺🇸
 
 - 🔭 currently working on self hosting Pixelfed, Nextcloud, Miniflux
-- 🌱 currently refreshing my ˋBashˋ skills
+- 🌱 currently refreshing my Bash and Linux knowledge
 - ⚡ Fun fact: ...
 
