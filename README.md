@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🧑🏼‍💻 retired university labtech (it/#ogistics) 🏫
-- 💿 now freelance lecturer and recording/mastering engineer 🎧
+- 🧑🏼‍💻 retired university labtech (it/#ogistics) 
+- 💿 now freelance lecturer and recording/mastering engineer 
 - 🏠 few years in the 🇺🇸, now northern Germany 🌊
 - 🎸 musician 🤘 metal, prog, fusion 🇩🇪 bilingual 🇺🇸
 
