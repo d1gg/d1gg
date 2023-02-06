@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🧑🏼‍💻 retired university labtech (it/#ogistics) 
-- 💿 now freelance lecturer and recording/mastering engineer 
-- 🏠 few years in the 🇺🇸, now northern Germany 🌊
+- 🧑🏼‍💻 former university labtech (it/#ogistics) 
+- 💿 now gearing up to freelancing lecturer and recording/mastering engineer again 
+- 🏠 several  years in the 🇺🇸, now northern Germany 🌊
 - 🎸 musician 🤘 metal, prog, fusion 🇩🇪 bilingual 🇺🇸
 
 - 🔭 currently working on self hosting Pixelfed, Nextcloud, Miniflux
