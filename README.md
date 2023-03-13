@@ -9,3 +9,4 @@
 - 🌱 currently refreshing my Bash and Linux knowledge
 - ⚡ Fun fact: ...
 
+Make it mean something
